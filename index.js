@@ -1,5 +1,3 @@
-// Write your code in this file!
-const currentUser = 'bitch I\'m a cow';
-const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!';
-
-let excitedWelcomeMessage
+const currentUser = 'Grace Hopper';
+ 
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
